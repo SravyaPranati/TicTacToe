@@ -11,7 +11,11 @@ body {
     ); /* Chrome 10-25, Safari 5.1-6 */
     /* background: linear-gradient(to right, #2c3e50, #bdc3c7); */
   }
-  
+  .main{
+    background-color: #0b233f;
+    width: 100vw;
+    min-height: 100vh;
+  }
   .board-row:after {
     clear: both;
     content: "";

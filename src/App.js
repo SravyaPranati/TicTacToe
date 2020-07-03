@@ -1,6 +1,6 @@
 import React from 'react';
 import UserScreen from './UserScreen'
-import Game from './Game'
+import Game from './components/Game'
 function App() {
 
 
